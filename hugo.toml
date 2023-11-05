@@ -1,9 +1,6 @@
-baseURL = 'https://oridem.salorak.es/'
 defaultContentLanguage = "es"
-defaultContentLanguageInSubdir = false
 theme = "hugo-theme-relearn"
-canonifyURLs = true
-relativeURLs = true
+baseURL = 'https://oridem.salorak.es/'
 
 [params]
 alwaysopen = true
@@ -20,12 +17,12 @@ disableLandingPageButton = true
 title = "Orientacion Academica"
 weight = 1
 languageName= "Español"
-languageCode = 'es'
+languageCode = "es"
 disabled = false
 
 [languages.cat]
 title = "Orientació Académica"
 weight = 2 
 languageName= "Catala"
-languageCode = 'cat'
+languageCode = "cat"
 disabled = false
