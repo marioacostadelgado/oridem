@@ -2,6 +2,8 @@ baseURL = 'https://oridem.salorak.es/'
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 theme = "hugo-theme-relearn"
+canonifyURLs = true
+relativeURLs = true
 
 [params]
 alwaysopen = true
