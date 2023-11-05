@@ -1,4 +1,4 @@
-baseURL = 'https://orientacion-academica.salorak.es/'
+baseURL = 'https://oridem.salorak.es/'
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 theme = "hugo-theme-relearn"
