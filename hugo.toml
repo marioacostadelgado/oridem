@@ -25,5 +25,5 @@ disabled = false
 title = "Orientació Académica"
 weight = 2 
 languageName= "Catala"
-languageCode = 'ca'
+languageCode = 'cat'
 disabled = false
