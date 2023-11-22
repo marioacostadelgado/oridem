@@ -22,7 +22,7 @@ languageCode = "es"
 disabled = false
 
 [languages.cat]
-baseURL = 'https://oridem.salorak.es/cat/'
+baseURL = 'https://oridem.salorak.es/'
 title = "Orientació Académica"
 weight = 2 
 languageName= "Catala"
