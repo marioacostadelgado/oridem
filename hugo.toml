@@ -10,11 +10,9 @@ showVisitedLinks = false
 themeVariant = ["zen-dark", "zen-light"]
 disableLandingPageButton = true
 
-
-# Multilenguages
+# Multilanguages
 [languages]
 [languages.es]
-baseURL = 'https://oridem.salorak.es/'
 title = "Orientacion Academica"
 weight = 1
 languageName= "Español"
@@ -22,7 +20,6 @@ languageCode = "es"
 disabled = false
 
 [languages.cat]
-baseURL = 'https://oridem.salorak.es/'
 title = "Orientació Académica"
 weight = 2 
 languageName= "Catala"
